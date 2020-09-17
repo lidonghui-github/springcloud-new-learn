@@ -1,0 +1,4 @@
+# Project exclude paths
+/eureka-client-customer/target/
+/eureka-client-search/target/
+/eureka-server-regirstry-center/target/
